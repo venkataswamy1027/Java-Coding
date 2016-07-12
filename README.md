@@ -29,7 +29,8 @@ Output :- Print the year is a Leap Year or not.
 5. Harmonic Number
 Input :-
 (a)Prints the Nth harmonic number: 1/1 + 1/2 + ... + 1/N 
-(http://users.encs.concordia.ca/~chvatal/notes/harmonic.html). 
 (b). I/P ­> The Harmonic Value N.Ensure N != 0 
 (c). Logic ­> compute 1/1 + 1/2 + 1/3 + ... + 1/N 
 Output :- Print the Nth Harmonic Value. 
+
+6.
